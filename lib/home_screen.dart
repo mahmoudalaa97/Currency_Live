@@ -55,7 +55,7 @@ class _HomeScreenState extends State<HomeScreen> {
               },
             ),
           ],
-          title: Text("الدولار مباشر",style: Theme.of(context).appBarTheme.textTheme.headline1,),
+          title: Text("العملات مباشر",style: Theme.of(context).appBarTheme.textTheme.headline1,),
           centerTitle: true,
         ),
         body: _cardDataList(data));
