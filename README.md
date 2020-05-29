@@ -17,3 +17,12 @@ Version: 0.1 :rocket:
 ## ScreenShot
 <p align="center"><img src="/assets/screenshot.png" width="350"></p>
 
+
+
+
+
+
+
+---------------------------------
+
+> Thanks for the [egyptrates](https://egyptrates.com/) to give me this API i used it in this app
