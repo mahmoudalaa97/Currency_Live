@@ -1,4 +1,4 @@
-package com.example.challange1;
+package com.mahmoudalaa.currencyLiveApp;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
